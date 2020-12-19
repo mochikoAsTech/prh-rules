@@ -117,3 +117,5 @@ rules:
         to:   事業
   - expected: …
     pattern: ・・・
+  - expected: ルートユーザー
+    pattern: ルートユーザ
