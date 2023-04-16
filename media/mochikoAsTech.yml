@@ -119,3 +119,5 @@ rules:
     pattern: ・・・
   - expected: ルートユーザー
     pattern: ルートユーザ
+  - expected: 紐付
+    pattern: 紐づ
