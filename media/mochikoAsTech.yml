@@ -121,3 +121,5 @@ rules:
     pattern: ルートユーザ
   - expected: 紐付
     pattern: 紐づ
+  - expected: 行な$1
+    pattern: /行([わいうえおっ])|おこな([わいうえおっ])/
